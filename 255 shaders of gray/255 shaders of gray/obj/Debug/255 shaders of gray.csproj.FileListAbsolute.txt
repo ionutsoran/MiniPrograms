@@ -1,0 +1,19 @@
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\bin\Debug\255 shaders of gray.exe.config
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\bin\Debug\255 shaders of gray.exe
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\bin\Debug\255 shaders of gray.pdb
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.csprojResolveAssemblyReference.cache
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\_255_shaders_of_gray.Form1.resources
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\_255_shaders_of_gray.Properties.Resources.resources
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.csproj.GenerateResource.Cache
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.exe
+D:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.pdb
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\bin\Debug\255 shaders of gray.exe.config
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\bin\Debug\255 shaders of gray.exe
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\bin\Debug\255 shaders of gray.pdb
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.csprojResolveAssemblyReference.cache
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\_255_shaders_of_gray.Form1.resources
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\_255_shaders_of_gray.Properties.Resources.resources
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.csproj.GenerateResource.cache
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.csproj.CoreCompileInputs.cache
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.exe
+F:\projects\MSV\255 shaders of gray\255 shaders of gray\obj\Debug\255 shaders of gray.pdb

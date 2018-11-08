@@ -1,0 +1,18 @@
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\bin\Debug\Catmull-Rom for surfaces.exe.config
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\bin\Debug\Catmull-Rom for surfaces.exe
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\bin\Debug\Catmull-Rom for surfaces.pdb
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.csprojResolveAssemblyReference.cache
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull_Rom_for_surfaces.Form1.resources
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull_Rom_for_surfaces.Properties.Resources.resources
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.csproj.GenerateResource.Cache
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.exe
+D:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.pdb
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\bin\Debug\Catmull-Rom for surfaces.exe.config
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\bin\Debug\Catmull-Rom for surfaces.exe
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\bin\Debug\Catmull-Rom for surfaces.pdb
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.csprojResolveAssemblyReference.cache
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull_Rom_for_surfaces.Form1.resources
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull_Rom_for_surfaces.Properties.Resources.resources
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.csproj.GenerateResource.Cache
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.exe
+F:\projects\MSV\Catmull-Rom for surfaces\Catmull-Rom for surfaces\obj\Debug\Catmull-Rom for surfaces.pdb

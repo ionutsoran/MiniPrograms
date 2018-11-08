@@ -1,0 +1,9 @@
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\bin\Debug\Triunghiul lui Serpinski.exe.config
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\bin\Debug\Triunghiul lui Serpinski.exe
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\bin\Debug\Triunghiul lui Serpinski.pdb
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\obj\Debug\Triunghiul lui Serpinski.csprojResolveAssemblyReference.cache
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\obj\Debug\Triunghiul_lui_Serpinski.Form1.resources
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\obj\Debug\Triunghiul_lui_Serpinski.Properties.Resources.resources
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\obj\Debug\Triunghiul lui Serpinski.csproj.GenerateResource.Cache
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\obj\Debug\Triunghiul lui Serpinski.exe
+D:\projects\MSV\Triunghiul lui Serpinski\Triunghiul lui Serpinski\obj\Debug\Triunghiul lui Serpinski.pdb

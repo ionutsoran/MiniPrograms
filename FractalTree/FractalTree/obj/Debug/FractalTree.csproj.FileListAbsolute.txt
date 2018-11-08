@@ -1,0 +1,9 @@
+D:\projects\MSV\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+D:\projects\MSV\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+D:\projects\MSV\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+D:\projects\MSV\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+D:\projects\MSV\FractalTree\FractalTree\obj\Debug\FractalTree.Form1.resources
+D:\projects\MSV\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+D:\projects\MSV\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
+D:\projects\MSV\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+D:\projects\MSV\FractalTree\FractalTree\obj\Debug\FractalTree.pdb

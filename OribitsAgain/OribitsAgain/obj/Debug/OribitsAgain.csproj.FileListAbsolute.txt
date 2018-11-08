@@ -1,0 +1,9 @@
+D:\projects\MSV\OribitsAgain\OribitsAgain\bin\Debug\OribitsAgain.exe.config
+D:\projects\MSV\OribitsAgain\OribitsAgain\bin\Debug\OribitsAgain.exe
+D:\projects\MSV\OribitsAgain\OribitsAgain\bin\Debug\OribitsAgain.pdb
+D:\projects\MSV\OribitsAgain\OribitsAgain\obj\Debug\OribitsAgain.csprojResolveAssemblyReference.cache
+D:\projects\MSV\OribitsAgain\OribitsAgain\obj\Debug\OribitsAgain.Form1.resources
+D:\projects\MSV\OribitsAgain\OribitsAgain\obj\Debug\OribitsAgain.Properties.Resources.resources
+D:\projects\MSV\OribitsAgain\OribitsAgain\obj\Debug\OribitsAgain.csproj.GenerateResource.Cache
+D:\projects\MSV\OribitsAgain\OribitsAgain\obj\Debug\OribitsAgain.exe
+D:\projects\MSV\OribitsAgain\OribitsAgain\obj\Debug\OribitsAgain.pdb

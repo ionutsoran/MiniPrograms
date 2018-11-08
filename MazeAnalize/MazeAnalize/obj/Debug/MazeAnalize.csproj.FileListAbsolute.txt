@@ -1,0 +1,10 @@
+D:\projects\MSV\MazeAnalize\MazeAnalize\bin\Debug\MazeAnalize.exe.config
+D:\projects\MSV\MazeAnalize\MazeAnalize\bin\Debug\MazeAnalize.exe
+D:\projects\MSV\MazeAnalize\MazeAnalize\bin\Debug\MazeAnalize.pdb
+D:\projects\MSV\MazeAnalize\MazeAnalize\obj\Debug\MazeAnalize.csprojResolveAssemblyReference.cache
+D:\projects\MSV\MazeAnalize\MazeAnalize\obj\Debug\MazeAnalize.Form1.resources
+D:\projects\MSV\MazeAnalize\MazeAnalize\obj\Debug\MazeAnalize.Properties.Resources.resources
+D:\projects\MSV\MazeAnalize\MazeAnalize\obj\Debug\MazeAnalize.csproj.GenerateResource.Cache
+D:\projects\MSV\MazeAnalize\MazeAnalize\obj\Debug\MazeAnalize.exe
+D:\projects\MSV\MazeAnalize\MazeAnalize\obj\Debug\MazeAnalize.pdb
+D:\projects\MSV\MazeAnalize\MazeAnalize\obj\Debug\MazeAnalize.Debugger.resources
