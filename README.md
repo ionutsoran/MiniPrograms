@@ -54,5 +54,5 @@
  A small unity project where I tried to generate some meshes from scratch and also tried to replicate Heroes of the Storm Hero Select layout.
  <br/>
  Sin wave of a hexagon prisms generated from scratch in C# using the Unity's mesh API's
- ![](SinWaveofHexagons.gif)
+ ![alttext](https://i.imgur.com/yffa6LT.gif)
  
