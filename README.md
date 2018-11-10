@@ -1,6 +1,6 @@
 # 255 Shades of Gray (Pun intented)
  <br/>
- This program started as silly application, but latere I kept adding more stuff to It, and eventually became and experimentation playground. It encompases several functionalities ranging from small physics application (throwing a ball in a controled environment and adjusting the parameters) to some CGI effects(Like in stark trek reaching warp-speed)
+ This program started as silly application, but latere I kept adding more stuff to It, and eventually became an experimentation playground. It encompases several functionalities ranging from small physics application (throwing a ball in a controled environment and adjusting the parameters) to some CGI effects(Like in stark trek reaching warp-speed)
  
  ![alternativetext](https://i.imgur.com/Eo64ama.png)
  ![alternativetext](https://i.imgur.com/ipaLUBW.png)
@@ -53,7 +53,7 @@
  <br/>
  A small unity project where I tried to generate some meshes from scratch and also tried to replicate Heroes of the Storm Hero Select layout.
  <br/>
- Sin wave of a hexagon prisms generated from scratch in C# using the Unity's mesh API's.
+ The first thing I tried to was to generate a sin wave made up of hexagon prisms generated from scratch in C# using the Unity's mesh API's.
  
  ![alt text](https://media.giphy.com/media/RdpqR0cdpizUGOVjFp/giphy.gif)
  
