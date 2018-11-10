@@ -53,6 +53,16 @@
  <br/>
  A small unity project where I tried to generate some meshes from scratch and also tried to replicate Heroes of the Storm Hero Select layout.
  <br/>
- Sin wave of a hexagon prisms generated from scratch in C# using the Unity's mesh API'.
- ![atlernativetext](https://media.giphy.com/media/2xPPgGsQr4O2cPYTnX/giphy.gif)
+ Sin wave of a hexagon prisms generated from scratch in C# using the Unity's mesh API's.
  
+ ![alt text](https://media.giphy.com/media/RdpqR0cdpizUGOVjFp/giphy.gif)
+ 
+ <br/>
+ Afterwards I tried creating a Serpinski pyramid(transforming the 2d triangle intro a pyramid) from scratch using only Unity's mesh API.
+ 
+ ![alt text](https://media.giphy.com/media/2xPPgGsQr4O2cPYTnX/giphy.gif)
+ 
+ <br/>
+ Lastly I tried to replicate the Hero Selection Menu from the game Heroes of The Storm
+ 
+ ![alt text](https://i.imgur.com/QrWwRyc.png)
