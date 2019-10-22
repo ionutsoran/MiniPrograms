@@ -60,7 +60,7 @@
  <br/>
  Afterwards I tried creating a Serpinski pyramid(transforming the 2d triangle intro a pyramid) from scratch using only Unity's mesh API.
  
- ![alt text](https://media.giphy.com/media/cm0P0QPcznqmxRbRma/giphy.gif)
+ ![alt text](https://media.giphy.com/media/YOMASuWbP7ewIvdgxG/giphy.gif)
   
  <br/>
  Lastly I tried to replicate the Hero Selection Menu from the game Heroes of The Storm
