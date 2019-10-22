@@ -55,7 +55,6 @@
  <br/>
  The first thing I tried to was to generate a sin wave made up of hexagon prisms generated from scratch in C# using the Unity's mesh API's.
  
-![alt text]()
 <img src="https://media.giphy.com/media/YOMASuWbP7ewIvdgxG/giphy.gif" alt="alt text" width="450" height="270"/>
  
  <br/>
