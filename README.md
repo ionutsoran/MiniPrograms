@@ -55,12 +55,13 @@
  <br/>
  The first thing I tried to was to generate a sin wave made up of hexagon prisms generated from scratch in C# using the Unity's mesh API's.
  
-![alt text](https://media.giphy.com/media/YOMASuWbP7ewIvdgxG/giphy.gif)
+![alt text]()
+<img src="https://media.giphy.com/media/YOMASuWbP7ewIvdgxG/giphy.gif" alt="alt text" width="450" height="270"/>
  
  <br/>
  Afterwards I tried creating a Serpinski pyramid(transforming the 2d triangle intro a pyramid) from scratch using only Unity's mesh API.
  
-<img src="https://media.giphy.com/media/eg4IyE6lUOSGbvqNQU/giphy.gif" alt="alt text" width="400" height="300"/>
+<img src="https://media.giphy.com/media/mEmbgzC5VTL956u0X1/giphy.gif" alt="alt text" width="450" height="270"/>
   
  <br/>
  Lastly I tried to replicate the Hero Selection Menu from the game Heroes of The Storm
