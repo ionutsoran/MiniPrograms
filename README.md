@@ -55,7 +55,7 @@
  <br/>
  The first thing I tried to was to generate a sin wave made up of hexagon prisms generated from scratch in C# using the Unity's mesh API's.
  
- ![alt text](https://media.giphy.com/media/RdpqR0cdpizUGOVjFp/giphy.gif)
+ ![alt text](https://media.giphy.com/media/YOMASuWbP7ewIvdgxG/giphy.gif)
  
  <br/>
  Afterwards I tried creating a Serpinski pyramid(transforming the 2d triangle intro a pyramid) from scratch using only Unity's mesh API.
